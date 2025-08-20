@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my study-bible page
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+>[!res]+ Vault
+> > - \ [[Inbox]] /
+> > - [[Library]] | [[Bookshelf]]
+> > - [[Sources MOC]]
+> > - Concept MOC 
+
+
+> [!hint]+ Interests / Favorites
+> -  [[What I find interesting]]

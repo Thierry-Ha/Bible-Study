@@ -1,18 +1,18 @@
 ---
-month: <% tp.date.now("MM", 0, tp.file.title, "YYYY--WW") %>-<% tp.date.now("MMM", 0, tp.file.title, "gggg-[W]ww") %>
-year: <% tp.date.now("YYYY", 0, tp.file.title, "gggg-[W]ww") %>
+month: 01-Aug
+year: 0007
 banner: "https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de"
 ---
 ⠀
-###### [[<% tp.date.now("YYYY - MM-MMMM", "P-1M", tp.file.title, "YYYY - MM-MMMM") %>|↶ PREVIOUS MONTH]] ⁝ [[<% tp.date.now("YYYY - MM-MMMM", "P1M", tp.file.title, "YYYY - MM-MMMM") %>|FOLLOWING MONTH ↷]]
-# ◌ <% tp.file.title %>
+###### [[0006 - 12-December|↶ PREVIOUS MONTH]] ⁝ [[0007 - 02-February|FOLLOWING MONTH ↷]]
+# ◌ JBP - Genesis - Lecture 7
 
 ## Weeks
 ```dataview
 TABLE
 month as "Month"
 FROM #Journal/w
-WHERE month = "<% tp.file.title %>"
+WHERE month = "JBP - Genesis - Lecture 7"
 ```
 
 ## Days
@@ -34,5 +34,5 @@ TABLE WITHOUT ID
 	SORT file.name DESC
 	LIMIT 30
 WHERE file.name != "Temp Daily Journal"
-WHERE month = "<% tp.file.title %>"
+WHERE month = "JBP - Genesis - Lecture 7"
 ```
