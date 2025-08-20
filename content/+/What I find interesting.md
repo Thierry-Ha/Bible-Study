@@ -13,3 +13,10 @@ tags:
 
 ### Divers topics: 
 
+
+
+![Image ?](/Users/pi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Étude Biblique/quartz/docs/images/custom-social-image-preview-light.png)
+
+
+
+![Image ?](/quartz/docs/images/custom-social-image-preview-light.png)
