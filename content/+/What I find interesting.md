@@ -14,9 +14,6 @@ tags:
 ### Divers topics: 
 
 
+![[giscus-repo.png]]
 
-![Image ?](/Users/pi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Étude Biblique/quartz/docs/images/custom-social-image-preview-light.png)
-
-
-
-![Image ?](/quartz/docs/images/custom-social-image-preview-light.png)
+![[73C50F30-C04B-4FDF-9A4D-46257FEA699B_1_105_c.jpeg]]
